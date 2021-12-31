@@ -5,7 +5,8 @@ Simple transporter from the Government Facility to the Secret Facility.
 
 You will need to have:
 
-ESX
+ESX,
+
 IPL running or I do believe you can have the bob47_ipl resource
 
 put the esx_returnfrommib in your resources folder 
